@@ -1,8 +1,7 @@
-Blog_post
-19 july 2017
 ---
-layout: post
-title:  "what i did!"
+layout:post
+title: “reviewed codes"
+date:2017-07-19
 ---
 
 
