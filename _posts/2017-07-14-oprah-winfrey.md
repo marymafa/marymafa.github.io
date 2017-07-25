@@ -1,6 +1,7 @@
 ---
 layout: post
-title:"the big secret in life!"
+title: oprah-winfrey
+date:2017-07-14
 ---
 
 Blog post
