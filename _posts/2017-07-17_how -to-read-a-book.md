@@ -1,13 +1,11 @@
-Blog post
-17 july 2017
+
 ---
 layout: post
-title:  "how to read a book!”
+title:  how to read a book!
+Date:2017-07-17
 ---
+### how to read a book
 
-
-
-		how to read a book
 you shoul understand what you are reading,even if it takes 5 minutes to understand it just do it.
 If you are reading for intertaiment you’re going to read  a lot differently than if you’re reading to increase understanding.
 Types of reading
