@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title:  how to read a book
-Date:2017-07-17
+Date:	2017-07-17
 ---
 ### how to read a book
 

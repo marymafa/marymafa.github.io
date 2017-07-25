@@ -1,7 +1,7 @@
 ---
 layout: post
-title: oprah-winfrey
-date:2017-07-14
+title: 	oprah-winfrey
+date:	2017-07-14
 ---
 
 Blog post
