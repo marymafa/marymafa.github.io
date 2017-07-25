@@ -1,7 +1,7 @@
 ---
-layout:post
-title: “reviewed codes"
-date:2017-07-19
+layout:	post
+title:	reviewed codes
+date:	2017-07-19
 ---
 
 
