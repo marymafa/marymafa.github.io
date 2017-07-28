@@ -25,14 +25,13 @@ fear of failure.
 Gifted women use  thwir charm  to gain approval  and purpose for supervisors to increase their abilities of confidence
 they their ability my be rejected by athers.
 				Therapy
- Allow the person  to organize  their thoughts in writing
+Allow the person  to organize  their thoughts in writing
 emotional learning requires a person to act  and respond  with certain behaviours,mood,feelings or believes
 
 				Demograpics
-They dout their abilities and think that their skill were not allowed be hired
+They dout their abilities and think that their skill were not allowed be hired.
 				
-Describes the stages  of learning to mastery
-when we learn or train in something  we pass though the states of shahari.
+### When we learn or train in something  we pass though the states of shahari:
 
 Shu-we reapet the forms and discipline our selves.
 
