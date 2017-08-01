@@ -16,15 +16,21 @@ Team should contain:Ideate-product owner
                     Operator: how it operate
 
 Bulding a structure is like  creating a  work art it requires creativing in design e.g:
-1-Why am i doing these
-2-How am i going to do
-2-values:Respect
-         Simplicity
-         Communication
-         Courage
-         Trust
-         Feedback
-3-Principles:How we make decisions
-4-Practicties: activities(what wii be doing)
-5-Tools: Machines
+
+1-Why am i doing these.
+
+2-How am i going to do.
+
+3-values:Respect
+         Simplicity.
+         Communication.
+         Courage.
+         Trust.
+         Feedback.
+
+4-Principles:How we make decisions.
+
+5-Practicties: activities(what wii be doing.
+)
+6-Tools: Machines.
          
