@@ -1,30 +1,26 @@
 ---
-layout: 
-title: Research
-date: 2017-07-14
+layout:
+title:Research
+date:2017-08-01
 ---
 
-### Oprah winfrey(the big secret in life)
+###Research
+###HTTPS(Hyper Text transfer protocol)
+-Data send between your browser  and web site  that your connected to.
+-The comunication between your browser and the web site  are encrypted.
+-Also used to protect high confidential online transaction like banking etc
+-Https pages use one  or more protocols to encrypt communication-SSL(Secure Sockets Layer) or TLS(Transport  Layer Security)
+-TSL:Provide communication  security over computer network,the connection is secure.
+-SSL:ensures that data passed beteween web server and browsers remain private.
 
-The big secret is  that there is no big secret.
+###SSH(Secure shell)
+-Is a network protocol for operating networks services securely over unsecured  network.
+Designed as  a replacement for Telnet and unsecured remote  shell protocols .
+-Telnet -is a network protocol that allows a user on one computer to log onto another computer that is part of the same network
 
-Use every opportunity you get in life.
 
-You can’t achieve your goal unless you are willing to be  to be honest with yourself.
 
-There is no back doors or no free rides.
 
-### Things that will make you to prosper 
-Patient.
-Faith.
-focus.
 
-Is not  easy to get what you want,fight until you get it.
 
-Wakeup an strengthen what you have before it dies completely.
-
-The battle of our life not stop until you fulfill your goals.
-
-Don’t read success stories you will get message but read failure stories you will have ideas to get success.
-
-Everybody has 24 hours no extra hours,those who are successful they had time to focus on their life…to be honest with themselves.
+ 
