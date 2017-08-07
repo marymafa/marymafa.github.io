@@ -3,7 +3,8 @@ layout
 title: CDN(Content Delivery Network)
 Date: 2017-08-02
 ---
-###Content Delivery Network(cdn)
+
+Content Delivery Network(cdn)
 
 -Is a geographically distributed network  of proxy servers and their data  centers.
 

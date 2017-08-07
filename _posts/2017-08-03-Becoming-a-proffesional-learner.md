@@ -4,7 +4,7 @@ title: Becoming-a-proffesional-leaner
 date: 2017-08-03
 ---
 
-###Becoming a proffesional learner
+Becoming a proffesional learner
 
 -Read about new things because you wiill learn new things.
 
