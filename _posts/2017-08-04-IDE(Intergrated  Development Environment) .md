@@ -1,6 +1,6 @@
 ---
 layout
-title:Integrated development environment
+title:"Integrated development environment".
 date: 2017-08-04
 ---
 
