@@ -3,8 +3,7 @@ layout:
 title:	"my observastion"
 date:	2017-07-24 
 ---
-
-### My observation of last week
+###My observation of last week
 
 In imposter syndrome  i observed  that human where overwoking in perfectionalism because of fear of failure.
 
