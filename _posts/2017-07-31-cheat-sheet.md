@@ -4,7 +4,7 @@ title:"cheat-sheet"
 date: 2017-07-31
 ---
 
-### cheat-sheet
+cheat-sheet
 
 Is a physical piece of paper often filled  with equation or facts in compressed writting,Most of students use it during their examinations to improve their marks especially history  students because they learn many  histries,same as  programming because users  use it to cheat if they are dealing with something challenging.
  

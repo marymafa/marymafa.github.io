@@ -1,10 +1,10 @@
 ---
 layout
-title:my observation  for last week
+title: my observation  for last week
 date: 2017-07-31
 ---
 
-###My observation for last week
+My observation for last week
 
 I observed that  clients  connect to the  proxy server,requesting some  services ,such as  file,webpage,connection and so on.
 

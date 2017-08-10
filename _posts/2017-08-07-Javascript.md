@@ -3,13 +3,14 @@ layout
 title: "Javascript".
 date: 2017-08-07
 ---
-###Javascript
+
+Javascript
 
 -Is a scripting language for computers.
 
 - It is often run in web browser applications to create dynamic content like a popup message or a live clock. 
 
-###what is it used for:
+what is it used for:
 
 -It supports object-oriented programming,
 
