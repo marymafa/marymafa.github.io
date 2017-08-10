@@ -1,8 +1,8 @@
 
 ---
-layout
+layout: post
 title: Framework
-date:2017-08-08
+date: 2017-08-08
 ---
 
 Framework

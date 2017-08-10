@@ -1,6 +1,6 @@
 ---
-layout
-title: "Javascript".
+layout:
+title: Javascript
 date: 2017-08-07
 ---
 

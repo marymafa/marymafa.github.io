@@ -1,6 +1,6 @@
 ---
-layout
-title: "CDN(Content Delivery Network)".
+layout: post
+title: CDN(Content Delivery Network)
 Date: 2017-08-02
 ---
 

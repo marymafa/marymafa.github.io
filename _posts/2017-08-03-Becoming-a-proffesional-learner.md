@@ -1,6 +1,6 @@
 ---
-layout
-title: "Becoming-a-proffesional-leaner".
+layout: posts
+title: Becoming-a-proffesional-leaner
 date: 2017-08-03
 ---
 

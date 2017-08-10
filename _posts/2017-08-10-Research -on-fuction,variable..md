@@ -1,6 +1,6 @@
 
 ---
-layout
+layout: post
 title: Research
 date: 2017-08-10
 ---
