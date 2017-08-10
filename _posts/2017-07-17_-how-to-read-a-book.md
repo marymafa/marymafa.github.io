@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title:  "how to read a book!”
+title:  how to read a book
 date: 2017-07-17
 ---
 

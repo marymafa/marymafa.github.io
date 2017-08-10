@@ -1,6 +1,6 @@
 ---
-layout:	
-title:	"what i did!"
+layout:	post
+title:	what i did
 date:	19 july 2017
 ---
 

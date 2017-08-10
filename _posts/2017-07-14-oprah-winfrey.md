@@ -1,7 +1,7 @@
 ---
-layout:
-title:Research
-date:2017-08-01
+layout: post
+title: Research
+date: 2017-08-01
 ---
 
 ###Research

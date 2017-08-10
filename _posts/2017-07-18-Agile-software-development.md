@@ -1,7 +1,7 @@
 ---
-layout: 
-title:  "Agile software"
-date:	18 July 2017
+layout: post
+title:  Agile software
+date:	2017-07-18
 ---
 
 
