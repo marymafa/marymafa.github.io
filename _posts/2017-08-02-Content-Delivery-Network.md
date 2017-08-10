@@ -6,6 +6,7 @@ Date: 2017-08-02
 
 ###Content Delivery Network(cdn)
 
+
 -Is a geographically distributed network  of proxy servers and their data  centers.
 
 -The goal is to distribute services spatially related to end-users  to provide  high availability  and high peformance.
