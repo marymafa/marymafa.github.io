@@ -23,7 +23,7 @@ In the software all the effort is design,and thus requires creative and talented
 Have a goog plan  before you create an software development like engineers  before they build a house,bridge whatever they plan first.
 The software  is written without much underlying plan ,when system grows it difficult to addc new feartures.
 
-###Fundermental different activities:
+### Fundermental different activities:
 -Design: Which is difficult to predict.
 -construction : which is esier to predict.
 Whemn you have the design ,  then you can p[lan for constraction.

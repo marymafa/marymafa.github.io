@@ -6,7 +6,6 @@ date: 2017-08-01
 
 ### oprah winfrey(the big secret in life)
 
-
 -The big secret in life is  there is no big secret.
 
 -Whatever your for this year is,you can get there as long as you are willing to be honest with yourself about and work involved.

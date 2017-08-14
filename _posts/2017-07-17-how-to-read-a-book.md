@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  How to read a book
@@ -16,7 +15,7 @@ If you are reading for intertaiment you’re going to read  a lot differently th
 ### 1-Elementary reading
 taugt in elementary school.
 
-### 2- Inspectional reading
+### 2-Inspectional reading
 -superficial reading-if you don’t understand something you move on.
 -systematic reading-reading index,studing table of contents.
 ### 3-Analytical reading
