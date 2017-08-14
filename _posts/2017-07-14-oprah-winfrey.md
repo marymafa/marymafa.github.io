@@ -4,19 +4,31 @@ title: Research
 date: 2017-08-01
 ---
 
-###Research
-###HTTPS(Hyper Text transfer protocol)
--Data send between your browser  and web site  that your connected to.
--The comunication between your browser and the web site  are encrypted.
--Also used to protect high confidential online transaction like banking etc
--Https pages use one  or more protocols to encrypt communication-SSL(Secure Sockets Layer) or TLS(Transport  Layer Security)
--TSL:Provide communication  security over computer network,the connection is secure.
--SSL:ensures that data passed beteween web server and browsers remain private.
+### oprah winfrey(the big secret in life)
 
-###SSH(Secure shell)
--Is a network protocol for operating networks services securely over unsecured  network.
-Designed as  a replacement for Telnet and unsecured remote  shell protocols .
--Telnet -is a network protocol that allows a user on one computer to log onto another computer that is part of the same network
+
+-The big secret in life is  there is no big secret.
+
+-Whatever your for this year is,you can get there as long as you are willing to be honest with yourself about and work involved.
+
+-There are no backdoors,no free rides.
+
+-Hard work pays,no what you want life and fulfill it.
+
+-Each time you make a decision  to move toward the life you want,whether that means sticking to your ownfitness contract or choosing to be patient.
+
+-Success demand:
+1-Sacrifice
+2-Struggle
+3-Faith
+4-Patient
+5-Hardwork
+			
+			
+			
+
+			
+
 
 
 

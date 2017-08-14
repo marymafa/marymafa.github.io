@@ -1,8 +1,7 @@
 
-
 ---
 layout: post
-title:  how to read a book
+title:  How to read a book
 date: 2017-07-17
 ---
 
@@ -14,15 +13,15 @@ If you are reading for intertaiment you’re going to read  a lot differently th
 
 ### Types of reading
 
-### Elementary reading
+### 1-Elementary reading
 taugt in elementary school.
 
-### Inspectional reading
+### 2- Inspectional reading
 -superficial reading-if you don’t understand something you move on.
 -systematic reading-reading index,studing table of contents.
-### Analytical reading
+### 3-Analytical reading
 -state what the whole book is about.
-### Syntopical reading
+###4-Syntopical reading
 -involes in reading many books on the same subject and comparing ideas.
 
 
