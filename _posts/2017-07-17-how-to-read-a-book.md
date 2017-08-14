@@ -20,7 +20,7 @@ taugt in elementary school.
 -systematic reading-reading index,studing table of contents.
 ### 3-Analytical reading
 -state what the whole book is about.
-###4-Syntopical reading
+### 4-Syntopical reading
 -involes in reading many books on the same subject and comparing ideas.
 
 
