@@ -9,7 +9,7 @@ Framework
 
 -Is a application skeleton that requires  user to approach software design in specific way and insert his or her logic at certain poits.
 
--Alo contain fuctionality  such as events,storage, and data blinding  are  normally provided for users.
+-Also contain fuctionality  such as events,storage, and data blinding  are  normally provided for users.
 
 Advantages of framework
 

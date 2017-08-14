@@ -12,7 +12,7 @@ Javascript
 
 what is it used for:
 
--It supports object-oriented programming,
+-to supports object-oriented programming,
 
 - And procedural programming.
 
