@@ -1,6 +1,6 @@
 ---
 layout: post
-title:cheat-sheet
+title: cheat-sheet
 date: 2017-08-31
 ---
 

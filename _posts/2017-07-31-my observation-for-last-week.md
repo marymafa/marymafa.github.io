@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my observation  for last week
+title: my observation for last week
 date: 2017-07-31
 ---
 
