@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Research
@@ -18,12 +17,11 @@ date: 2017-07-14
 -Each time you make a decision  to move toward the life you want,whether that means sticking to your ownfitness contract or choosing to be patient.
 
 -Success demand:
-
-1-Sacrifice.
-2-Struggle.
-3-Faith.
-4-Patient.
-5-Hardwork.		
+	1-Sacrifice.
+	2-Struggle.
+	3-Faith.
+	4-Patient.
+	5-Hardwork		
 			
 			
 
