@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cheat-sheet
-date: 2017-08-31
+date: 2017-07-31
 ---
 
 ## Cheat-sheet
