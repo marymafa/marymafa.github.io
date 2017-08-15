@@ -10,6 +10,7 @@ date:  2017-08-15
 -Also represent a goo way of identifying classes during the design phase of an application and it reminds  you to think of all the ways a class can envolve.
 
 -Motivation:
+
 1-A responsibility is considered to be  one reasono to change.
 
 2-This principle states that if we have 2 reasons to change for a class, we have to split the fuctionality in  two classes.
