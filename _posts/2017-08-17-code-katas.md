@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Katas 
-date: 2007-08-17
+date: 2017-08-17
 ---
 
 ### Bugs
