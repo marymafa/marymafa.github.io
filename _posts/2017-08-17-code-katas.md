@@ -14,7 +14,7 @@ date: 2007-08-17
 
 -Also can cause the program to crash or freeze the computer.
 
-### HArd coding
+### Hard coding
 -It is a code that you can not change.
 
 -It is bad because you need to change everywhere.
