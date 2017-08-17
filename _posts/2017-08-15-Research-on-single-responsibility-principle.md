@@ -7,7 +7,7 @@ date:  2017-08-15
 ### Single Responsibiility Principle
 -Is a simple and intuitire principle but practice it is  somethimes hard to get it right.
 
--Also represent a goo way of identifying classes during the design phase of an application and it reminds  you to think of all the ways a class can envolve.
+-Also represent a good way of identifying classes during the design phase of an application and it reminds  you to think of all the ways a class can envolve.
 
 -Motivation:
 
