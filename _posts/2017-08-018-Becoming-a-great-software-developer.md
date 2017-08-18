@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becoming a great software development
+title: Becoming-a-great-software-developer
 date: 2017-08-18
 ---
 
