@@ -14,7 +14,7 @@ date: 2017-08-18
 
 4-Learn database technology.
 
-5-Learn structural best  practices.
+5-Learn structural best practices.
 
 6-Learn a second  language.
 
