@@ -5,19 +5,19 @@ date: 2017-08-17
 ---
 
 ### Bugs
--Is an erro,flaw,failure or in a program that causes it to produce an incorrect or unepected result in un intended ways.
+-Is an error,flaw,failure or in a program that causes it to produce an incorrect or unepected result in un intended ways.
 
 -Most bugs arise from  mistakes and erros made either  a program's source code.
 
--Incorrect code cause  by  bugs.
+-Incorrect code caused  by  bugs.
 
 
 -Also can cause the program to crash or freeze the computer.
 
 ### Hard coding
--It is a code that you can not change.
+-Is a code that you can not change.
 
--It is bad because you need to change everywhere.
+-Is bad because you need to change everywhere.
 
 ### Primitive
 -Is an object that language can understand.
