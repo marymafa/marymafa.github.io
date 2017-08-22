@@ -35,6 +35,4 @@ date: 2017-08-22
 
 . Plan helps usto recognise when things  have changed.
 
-. As we make plans, we understand that the  ongoing time-boxed activity that includes:(i)Risk assesment.
-
-											(ii)Iteration planing meetings.
+. As we make plans, we understand that the  ongoing time-boxed activity that includes:(i)Risk assesment and (ii)Iteration planing meetings.
