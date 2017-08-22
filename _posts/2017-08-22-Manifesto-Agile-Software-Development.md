@@ -2,6 +2,7 @@
 layoout: post
 title: Manifesto for Agile software Development
 date: 2017-08-22
+---
 
 ### Values
 
