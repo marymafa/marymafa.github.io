@@ -4,7 +4,7 @@ title: Make-object-properties-Private
 date: 2017-08-29
 ---
  
-### Make-object-roperties-Private
+### Make-object-properties-Private
 
 -Objects have their own attributes, called properties, and their own functions, called methods.
 
