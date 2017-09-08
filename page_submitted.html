@@ -1,0 +1,100 @@
+<!DocType html>
+<html>
+<head>
+    <meta charset="UTF-">
+<title>page_submitted</title>
+</head>
+
+<script>
+    var firstname=firstname.value();
+    if (firstname == ""){
+        message += "please enter a valid firstname <br/>"
+        valid = false
+    };
+
+   var querystring = location.search.slice(1);
+    var splitValues = querystring.split("&");
+    var firstname = splitValues[0];
+    var lastname = splitValues[1];
+    var gender = splitValues[2];
+    var contact = splitValues[3];
+    var email = splitValues[4];
+    var dietartyRequirement = splitValues[5];
+    var other = splitValues[6];
+    var bringPartner = splitValues[7];
+    var howmany= splitValues[8];
+
+    var firstname = firstname.split("=");
+    var flastname = lastname.split("=");
+    var gender = gender.split("=");
+    var contact = contact.split("=");
+    var email= email.split("=");
+    var dietartyRequirement = dietartyRequirement.split("=");
+    var other = other.split("=");
+    var bringPartner = bringPartner.split("=");
+    var howmany= howmany.split("=");
+
+    var newString =hey + " " + firstname[1] + " " + lastname[1];
+    console.log(querystring);
+    document.getElementById("fname").innerHTML = firstname[1];
+    document.getElementById("lname").innerHTML = lastname[1];
+    document.getElementById("gender").innerHTML = gender[1];
+    document.getElementById("contact no").innerHTML = contactNo[1];
+    document.getElementById("email").innerHTML =gemail[1].replace("%40", "@");
+    document.getElementById("dietaryrequirement").innerHTML = dietaryrequirement[1];
+     document.getElementById("other").innerHTML = sotherr[1]
+    document.getElementById("bringpartner").innerHTML = bringPartner[1];
+    document.getElementById("numberOfPeople").innerHTML =numberOfPeople[1];
+
+
+</script>
+
+<body>
+    <p id="message">Thanks for rsvping</p>
+
+    <div id="message">Blah</div>
+    <style>
+    
+    td{border:solid;
+          border-radius:4px;}
+</style>
+    </head>
+
+    <body onload = "getValues()">
+         
+    <p id="p1">Confirmation page</p>
+    <table>
+        <tr>
+            <th>......</th>
+            <th>Data</th>
+        </tr>
+            
+        <tr>
+            <td>First Name:</td>
+            <td id = "fname">mark</td>
+        </tr>
+        <tr>
+            <td>Last Name:</td>
+            <td id = "lname">mark</td>
+        </tr>
+        <tr>
+            <td>Contact Number:</td>
+            <td id = "cell">mark</td>
+        </tr>
+        <tr>
+            <td>Email Adddress:</td>
+            <td id = "email">mark</td>
+        <tr>
+            <td>What you Don't like:</td>
+            <td id = "diet">mark</td>
+        </tr>
+        <tr>
+            <td>Number of people:</td>
+            <td id = "num">mark</td>
+        <tr>
+    </table>
+
+
+
+    </body>
+</html>
