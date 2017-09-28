@@ -1,6 +1,6 @@
 ---
-layout:post
-tile: Ajax Callback
+layout: post
+title: Ajax Callback
 date: 2017-09-21
 ---
 
