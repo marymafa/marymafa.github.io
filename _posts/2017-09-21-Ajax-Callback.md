@@ -5,9 +5,9 @@ date: 2017-09-21
 ---
 
 
-###  Ajax Callback
+### Ajax Callback
 
-*Ajax call back works like this:
+Ajax call back works like this:
 
 1-The browser send a message (i.e data) to the server and specifies the page on the server that will receive the messagge.
 
