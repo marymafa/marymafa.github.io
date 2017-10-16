@@ -1,1 +1,0 @@
-/home/odroid/workspace/marymafa.github.io/_posts/2017--08-29-freecodecamp.md
