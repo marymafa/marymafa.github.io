@@ -16,7 +16,7 @@ The second one i didn't spend much time on it, we were suppose to  correct the c
 What supprised me is that  my function was returning all true instead of returning  2false and 1true because  of the if statement, like i spent much time onit trying to see  what went wrong. 
 
 
-And the last was challenging, we were suppose to return true if it contains any duplicate argument values and i also spent much time on it, because of the if statement.
+And the last one was  also challenging, we were suppose to return true if it contains any duplicate argument values and i also spent much time on it because of the if statement.
 
 I could improve  by spending time looking at the problem until i understand, and think on how am i going to solve it ,also write down the steps and if anything doesn't work i should stop and think or ask. I should not  wait for my mentors to give  some tasks, i do have an internet i should google javascript assignment and practice if i stuck i should  ask for help.
 
