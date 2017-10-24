@@ -4,8 +4,6 @@ title: Introspect
 date: 2017-10-23
 ---
 
-Introspect
-
 
 On friday we were given a task on code katas and it was not difficult. The first one we were suppose to find the last element of a list,
 and it was easy and i didn't spend much time on it.
