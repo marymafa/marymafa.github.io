@@ -18,12 +18,9 @@ Firstly i spent minutes trying to understand the project. I forced myself to kno
 
 ### I decided to :
 -create a button for new quotes,
-
 -and also for tweeter.
 
--Use math.floor and math.random to make sure that when user click  a button for new quotes 
-
-should show new quotes.
+-Use math.floor and math.random to make sure that when user click  a button for new quotes should show new quotes.
 
 On the given project i didn't  struggle that much because i used pure javascript and html
 only.I have learned that you should understand  the problem first,and think on how you wiil
