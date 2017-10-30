@@ -17,8 +17,7 @@ Allow  users to get new quote if they click the buton.
 Firstly i spent minutes trying to understand the project. I forced myself to know what am  building and how will my quote  look like or be. After i made sure that my quotes works following the instructions. And  i  tested my code  to see if user click a button it will show quote and it was working. And went through design thinking to perform creativity in design.
 
 ### I decided to :
--create a button for new quotes,
--and also for tweeter.
+-create a button for new quotes,  and also for tweeter.
 
 -Use math.floor and math.random to make sure that when user click  a button for new quotes should show new quotes.
 
