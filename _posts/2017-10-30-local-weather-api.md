@@ -34,7 +34,7 @@ my understanding:
 I should have a button for  Fahrenheit and Celcius and  for location  so that the users can  check weather where ever they are.  Also, I should have background images for weather.  It is important to follow instructions to  know what you are  doing and i used api to specify  how weather  show interact.  It shoud allow users the weather for today to see if it is going to be hot ,cold etc.
 
 
-on this project  i could improve on building weather api because this days like almost everyday people check before they make plan because  weather can change anytime. 
+on this project i could improve on building weather api because this days like almost everyday people check before they make plan because  weather can change anytime. 
 
 
 
