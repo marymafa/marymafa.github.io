@@ -1,0 +1,12 @@
+
+*** These modified files were found in JOE when it aborted on Fri Nov  3 08:45:37 2017
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/odroid/workspace/marymafa.github.io/_posts/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
