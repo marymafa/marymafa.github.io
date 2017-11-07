@@ -3,7 +3,7 @@
 ---
 layout: post
 title:  population growth
-date:             2017-11-02
+date:     2017-11-02
 ---
 
 
@@ -11,9 +11,13 @@ date:             2017-11-02
 This exercise was challenging and i made sure that i do it until i get accurate results.
 
 ### Instructions:
+
 1.At the begging of a year population was 1000.
+
 2.Populaion increased by 2%  per year.
+
 3.Moreover 50 new inhabbit per year come to live in the town.
+
 4.HOw many years does the town neded to see its population greater or equal to  p=1200.
 
 
