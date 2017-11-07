@@ -1,6 +1,6 @@
 ---
 layout:post
-title: Population Growth
+title: population growth
 date: 2017-11-06
 ---
 
