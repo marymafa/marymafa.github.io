@@ -4,7 +4,8 @@ title: population growth
 date: 2017-11-06
 ---
 
-### Population Growth
+
+### population growth
 This exercise was challenging and i made sure that i do it until i get accurate results.
 
 ### Instructions:
