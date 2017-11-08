@@ -23,8 +23,7 @@ My testing statement is used to test DNA strand like if is A it should  push pai
  And if is G it will return "C,"G" or it will return "G","C" if is C.  I consoled to see whether am i going to get an accurate result.
 
 
-
-I have learned that it is simple to solve an exercise only if you understand the problem and you realy know how am i going to this and 
+I have learned that it is simple to solve an exercise only if you understand the problem and you really know how are you  going to solve it and 
 it was not challenging.
 
 
