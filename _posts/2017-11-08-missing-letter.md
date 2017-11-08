@@ -2,7 +2,7 @@
 
 ---
 layout: post
-title: Missing leters
+title: "Missing leters"
 date: 2017-11-08
 ---
 
@@ -14,7 +14,6 @@ thin more and come up with another ideas.
 
 
 ### Instructions:
-
 
 Find the missing letter in the passed leteer range  and return it
 
