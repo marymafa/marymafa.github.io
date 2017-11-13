@@ -23,7 +23,7 @@ of returning unique values. After i have seen that one for loop is not working ,
 array so that it will exeercute an accurate results. On my test statement i was testing both arrays using includes method to 
  see that an array includes a certain element, if it does then push arguments in a new array called uniqueValues.  And it returned 
 new  array of unique values. This has almost the same semantics as the above, except that it uses the SameValueZero comparison algorithm
-instead of Strict Equality Comparison,
+instead of Strict Equality Comparison.
 
 
 ### problem started:
