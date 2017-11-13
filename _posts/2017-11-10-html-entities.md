@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Convert HTML Entities
@@ -6,7 +7,7 @@ date: 2017-11-10
 
 ### Convert HTML Entities
 
-### About HTML ENTITIES
+ About HTML ENTITIES
 
 An HTML entity is a piece of text ("string") that begins with an ampersand (&) and ends with a semicolon (;) .  Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces). 
 
@@ -29,6 +30,4 @@ And  this is how it works:
 
 2.The value of the expression is compared with the values of each case.
 
-3.If there is a match, the associated block of code is executed
-
-
+3.If there is a match, the associated block of code is execute
