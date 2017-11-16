@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sum All Primes
-date : 2017-11-14
+date : 2017-11-15
 ---
 
 ###  Sum all Primes
