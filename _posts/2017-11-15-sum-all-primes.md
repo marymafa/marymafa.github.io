@@ -1,7 +1,8 @@
+
 ---
 layout: post
 title: sum All Primes
-date : 2017-11-15
+date: 2017-11-15
 ---
 
 ###  Sum all Primes
@@ -22,6 +23,7 @@ If is a prime number should return true.
 
 
 Method 2
+
 I have included an if statement that if is prime numbers , should
 push it to a variable called array of prime and after pushing then 
 return the sum of primes.
