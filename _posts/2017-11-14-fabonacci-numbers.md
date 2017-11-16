@@ -1,3 +1,5 @@
+
+
 ---
 layout: post
 title: Sum All Odd Fibonacci Numbers
@@ -8,9 +10,9 @@ date: 2017-11-14
 
 About Fibonacci Numbers
 
-Fibonacci Numbers
-
 We were given a positive integer num, that will return sum of all odd fibonacci numbers that are less than or equal to num.
+
+Fibonacci Numbers
 
 Are the numbers in the integer sequwnce  called the fibonnaci sequence and characterized by the fact that whatever number after the first two is the sum of the two preceding ones.
 
