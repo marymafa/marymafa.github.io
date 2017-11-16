@@ -18,6 +18,7 @@ I were suppose to Find the smallest common multiple of the provided parameters t
 ### My Approach
 
 method 1
+
 I have decided to create a function called is smallCommons that contains variables called lowest where can store the first index,  the second variable called called highest where can store the last index, and the third variable is called sortedList where can sort numbers in an array numerically starting from the lowest to the highest, and the fourth called currentMultiple where the highest is equal to the currentMultiple in the begining and my last variable is called range.
 
  Method 2
@@ -30,7 +31,7 @@ I created another function called isCommonMultiple that contains three parameter
 
  Method 4
 
-I went back to my first function and create a while loop , where i said while is not isCommonMultiple keep on testing but if you find the one that leaves a reminder like 1  then break, after breaking add the currentMultiple with the highest value then keep on doing that until you find the smallest common multiple that will suit all the values in an array or range
+I went back to my first function and create a while loop , where i said while is not isCommonMultiple keep on testing but if you find the one that leaves a reminder like 1  then break, after breaking add the currentMultiple with the highest value then keep on doing that until you find the smallest common multiple that will suit all the values in an array or range.
 
 
 I tested all the test and finally it returned the smallest common multiple which is 60.
