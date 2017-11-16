@@ -19,6 +19,7 @@ I were suppose to Find the smallest common multiple of the provided parameters t
 
 method 1
 
+
 I have decided to create a function called is smallCommons that contains variables called lowest where can store the first index,  the second variable called called highest where can store the last index, and the third variable is called sortedList where can sort numbers in an array numerically starting from the lowest to the highest, and the fourth called currentMultiple where the highest is equal to the currentMultiple in the begining and my last variable is called range.
 
  Method 2
