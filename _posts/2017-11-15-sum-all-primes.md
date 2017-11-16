@@ -9,7 +9,8 @@ date: 2017-11-15
 
 We are asked to find the sum of the prime number up to and including the provided number.
 
-About Prime
+About Prime:
+
 
 A prime number is defined as a number greather than one and having
 only two divisors, one and itself. For example, 2 is a prime number because it's only divisible  by one and two.
