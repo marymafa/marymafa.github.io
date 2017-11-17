@@ -31,6 +31,6 @@ I created another function that will return number in an array that are
 divisible by two and leaves a remainder which is zero.
 
 
-Finally , i tested the test it was working and it returned  eight and undefined 
+Finally ,  i tested the test it was working and it returned  eight and undefined 
 following the instructions.
 
