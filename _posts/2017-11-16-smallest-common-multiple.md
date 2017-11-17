@@ -3,7 +3,7 @@
 ---
 layout: post
 title: Smallest Commmon Multiple
-date: 2017-11-16
+date: 2017-11-17
 ----
 
 ### Smallest Commmon Multiple
