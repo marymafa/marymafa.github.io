@@ -33,12 +33,12 @@ First step is to split our argument into an array. Our argument is a string, but
 
 i  used parseInt(split[i], 2)  and give it my item (argument 1 of parseInt) and tell it to convert using the mathematical base of 2.  but briefly there are binary, decimal where the number 13 would display differently, binary displaying it as 1's and 0’s for example. 
 
-Finally it returned an accurate results and the results were spaced and i used join to join them together.
+Finally, it returned an accurate results and the results were spaced and i used join to join them together.
 
 
 
 
 
 
-
+S
 
