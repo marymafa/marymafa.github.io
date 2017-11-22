@@ -23,15 +23,13 @@ The explanation on this problem is fairly straight forward, We need to take our 
 4. Convert to decimal by using parseInt(binary, 2) (with the second parameter we tell in which base our numbers currently are)
     At the end, we return out converted message.
 
-5. First we use split() to be able to work on each character as an Array element.
+5. First i use split() to be able to work on each character as an Array element.
 
-### Approach
+### Approach:
 
 There’s actually two steps involved in converting binary to ASCII, first we have to convert them into utf-16 binary where 01000001 would be 65, from here, we then convert utf-16 binary to readable English charaters.
 
-First step is to split our argument into an array. Our argument is a string, but we need it to be an array which we split whenever there is a space.
-
-I this by using the argument (' ') with our split() function. This tells the function that whenever you see a space in the string, that’s where I want you to split the string and start a new array element.
+First step is to split our argument into an array. Our argument is a string, but we need it to be an array which we split whenever there is a space.  I  did this by using the argument (' ') with our split() function.  This tells the function that whenever you see a space in the string, that’s where I want you to split the string and start a new array element.
 
 
 
