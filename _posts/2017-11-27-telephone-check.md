@@ -26,3 +26,10 @@ In this challenge,  my job is to validate or reject the US phone number based on
 
 5.  Lastly, I should  use regex.test(str) to test if the string adheres to the regular expression and return true or false.
 
+6.  Use a for loop if possible.
+
+
+### My Approach
+
+I created a function titled telephone check to check whether it is valid or not,  a variable named format that will cointain the formal that will be needed, And  a for loop  that will iterate though the an argument. On my test stattement i said if numbers is not equall to a formal return false otherwise return true. It worked for false only instead of working for true and false.
+
