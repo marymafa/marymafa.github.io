@@ -14,11 +14,15 @@ In this challenge,  my job is to validate or reject the US phone number based on
 
 1. I should use (1) checks allows for a “1” or a "1 " at the beginning.
 
-2. I should use\d{n} checks for exactly n number of digits so (\(\d{3}\)|\d{3}) checks for three digits that are allowed to be between parenthesis.
+
+2. I should use\d{n} checks for exactly n number of digits so (\(\d{3}\)|\d{3})checks for three digits that are allowed to be between parenthesis.
+
 
 3. I should use[\s\-]? checks for spaces or dashes between the groups of digits.
 
-4.I should use $ denotes the end of the string. In this case the beginning and end of the string are used in the regex to prevent it from matching any longer string that might contain a valid phone number (eg. “s 555 555 5555 a”).
+
+4. I should use $ denotes the end of the string. In this case the beginning and end of the string are used in the regex to prevent it from matching any longer string that might contain a valid phone number (eg. “s 555 555 5555 a”).
+
 
 5. Lastly, I should  use regex.test(str) to test if the string adheres to the regular expression and return true or false.
 
