@@ -1,6 +1,7 @@
+
 ---
 layout: post
-title: "validation"
+title: Telephone check
 date: 2017-11-28
 ---
 
@@ -10,7 +11,7 @@ date: 2017-11-28
 
 ### Method 1
 
-/*I want to  continue with this chalenge because i didn't finish  it like it was returning all false insteadd of returning true if is valid and false if is invalid, So I went and look-up on what it is. I’m going to start by creating a variable where the regular expression will be stored, I’ll get to the actual function later. First, i want to  make sure that if we get a country code, it’s equal to 1. To achieve this, I’m going to use the ^ symbol, which matches the beginning of a string. Then, I type in 1, since that’s what i actually want at that position. Since the country code is optional, using the ? symbol after it will match  zero or one of the preceding element for example(varchecker = /^1?/;).*/
+I want to  continue with this chalenge because i didn't finish  it like it was returning all false insteadd of returning true if is valid and false if is invalid, So I went and look-up on what it is. I’m going to start by creating a variable where the regular expression will be stored, I’ll get to the actual function later. First, i want to  make sure that if we get a country code, it’s equal to 1. To achieve this, I’m going to use the ^ symbol, which matches the beginning of a string. Then, I type in 1, since that’s what i actually want at that position. Since the country code is optional, using the ? symbol after it will match  zero or one of the preceding element for example(varchecker = /^1?/;).
 
 ### Method 2
 
