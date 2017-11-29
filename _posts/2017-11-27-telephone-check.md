@@ -15,6 +15,7 @@ In this challenge,  my job is to validate or reject the US phone number based on
 1.  I should use (1) checks allows for a “1” or a "1 " at the beginning.
 
 
+
 2.  I should use\d{n} checks for exactly n number of digits so (\(\d{3}\)|\d{3})checks for three digits that are allowed to be between parenthesis.
 
 
