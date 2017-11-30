@@ -24,3 +24,5 @@ Firstly ,  I created a variable called collection that stores ecach albulm that 
 
 Method 2
 
+In my  first test statement i said if  property(prop) is tracks but the album doesn't have aproperty, create an empty array before adding the new value to the album's corresponding property.
+
