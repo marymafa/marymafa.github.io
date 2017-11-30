@@ -32,3 +32,5 @@ On My third statement i said if property(pro) is  not tracks then update  or set
 
 and my last statement i said If prop is "tracks" and value isn't empty (""), push the value onto the end of the album's existing tracks array.
 
+Finally is working like i tested all the test and the first test returns ABBA after updated records(5439,"artist","ABBA") and my second test returns "Take a Chance on Me" After updateRecords(5439, "tracks", "Take a Chance on Me") etc.
+
