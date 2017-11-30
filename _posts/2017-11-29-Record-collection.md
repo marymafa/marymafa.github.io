@@ -26,3 +26,9 @@ Method 2
 
 In my  first test statement i said if  property(prop) is tracks but the album doesn't have aproperty, create an empty array before adding the new value to the album's corresponding property.
 
+On my second statement i said if value is empty(""), delete the given property(prop) from the album.
+
+On My third statement i said if property(pro) is  not tracks then update  or set the value for the record albulm's property.
+
+and my last statement i said If prop is "tracks" and value isn't empty (""), push the value onto the end of the album's existing tracks array.
+
