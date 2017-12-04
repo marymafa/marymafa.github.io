@@ -13,7 +13,7 @@ Given two sets (for example set A = {1, 2, 3} and set B = {2, 3, 4}), the mathem
 
 ### What is Symmetric Difference all about?
 
- is the set of elements which are in either of the two or more sets.
+Is the set of elements which are in either of the two or more sets.
 
 ### Code Explanation:
 
