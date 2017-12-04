@@ -27,17 +27,16 @@ Is the set of elements which are in either of the two or more sets.
 
 Method 1
 
-I created a function title sym(for symmetric) that passing throgh two parametrs which are array one and array two.  I also created a variable called new array that will return new array after merging array one and array two. 
+I created a function title sym(for symmetric) that passing through two parametrs which are array one and array two.  I also created a variable called new array that will return new array after merging array one and two array . 
 
 Method 2
 
-I created another function titled check that will check  the difference of two or more sets. On my if statement i said if array one of index which is item does not exist  return that item or if array 2 of  index which is item  does not exist then return that item , Otherwise return new array for the elements that has passed the test.
+I created another function titled check that will check  the difference of two or more sets. On my if statement i said if array one of index which is item does not exist then  return that item or if array 2 of  index which is item  does not exist then return that item , Otherwise return new array for the elements that has passed the test.
 
 ### Challenge:
 
-Problem started when it returns the results for two array because inside my first function i have only two parameters titled array one and array two but i tried to change the those parameters but still there is no changes. I went back to the instruction to understand the problem  and i did fix my code but still it return 
-results for two arrays only. Because of time will figure it out tommorow and will also post my solution.
+Problem started when it returns the results for two array because inside my first function i have only two parameters titled array one and array two but i tried to change  those parameters but still there is no changes. I went back to read  the instructions  so that i will  understand the problem  and i did fix my code but still it returns the results for two arrays only. Because of time will figure it out tommorow and will also post my solution.
 
-Even though it was challenging but atleast i have some green ticks that realy shows that i have some knowdlege of what going  on.
+Even though it was challenging but atleast i have some green ticks that really shows that i have some knowdlege of what going  on.
 
 
