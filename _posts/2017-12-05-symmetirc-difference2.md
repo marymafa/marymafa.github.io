@@ -21,6 +21,7 @@ I want to continue with this challenge because i didn’t finish it like it was 
 
 
 ### My Approach:
+
  	Method 1
 
 I created a function titled sym that contain a variable called args(arguments) and after iterating over each arguments then push them to a variable called args.
