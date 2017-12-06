@@ -22,11 +22,10 @@ I want to continue with this challenge because i didn’t finish it like it was 
 
 
 ### My Approach:
-
-   Method 1
+### Method 1
 
 I created a function titled sym that contain a variable called args(arguments) and after iterating over each arguments then push them to a variable called args.
 
-  Method 2
+### Method 2
 
 I created another function titled symdiff that will find the difference that passing through the parameters named array one and array two. I also created another variable called results that will store data. On forEach method i am compiring 
