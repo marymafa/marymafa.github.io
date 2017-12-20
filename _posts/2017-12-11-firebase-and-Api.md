@@ -8,7 +8,7 @@ date: 2017-12-11
 
 ### firebase
 
-Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014. Firebase gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users. Firebase is built on Google infrastructure and scales automatically, for even the largest apps. Firebase products work great individually but share data and insights, so they work even better together. 
+Firebase is a mobile and web application development platform developed by Firebase, inc. in 2011, then acquired by Google in 2014. Firebase gives you functionality like analytics, databases, messaging and crash reporting so you can move quickly and focus on your users. Firebase is built on Google infrastructure and scales automatically, for even the largest apps. Firebase products work great individually but share data and insights, so they work even better together. 
 
 ### Using the html historty API
 
