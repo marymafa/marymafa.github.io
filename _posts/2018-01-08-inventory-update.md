@@ -25,7 +25,7 @@ I created a function title  update inventory that will merge array one and array
 
 ### Conclusion:
 
-I managed to merge two array and it was working  but it diidn't add two items if they are the same  and at least to return ssomething.
+I managed to merge two array and it was working  but it diidn't add two items if they are the same  and at least it return something.
 
 
 
