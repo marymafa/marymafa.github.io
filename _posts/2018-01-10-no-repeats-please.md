@@ -23,6 +23,7 @@ To achieve that, I have to look at each possible permutation of a string. There 
 
 ### My approach:
 
+This challenge is really changing like i went through  permutation and how it works.  I created a function title permAlone and inside it a have a variable aunique that is zero(the starting point) and another variable that will store stirng elements.  On My for loop i said each element through the and then after push element to the variabled called new arrray.
 
 
 
