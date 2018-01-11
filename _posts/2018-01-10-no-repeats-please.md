@@ -23,7 +23,7 @@ To achieve that, I have to look at each possible permutation of a string. There 
 
 ### My approach:
 
-This challenge is really changing like i went through  permutation and how it works.  I created a function title permAlone and inside it a have a variable aunique that is zero(the starting point) and another variable that will store stirng elements.  On My for loop i said each element through the and then after push element to the variabled called new arrray.
+This challenge is really changing like i went through  permutation and see how it works.  I created a function title permAlone and inside it a have a variable called unique that is zero(the starting point) and another variable that will store elements in a string.  On My for loop i said each element should be iterated in a for loop and then after push element to the variabled called new array, then it returned['aab','aab','aab']. After i have seen i get  wrong results, I changed my code i created two for loop because i'm comparing many elements. On my test statement i said if string element index is less than the length then add then that element because it might happen that can change their position.
 
 
 
