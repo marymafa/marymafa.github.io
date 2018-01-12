@@ -16,4 +16,4 @@ Instead of logging the sum, you could divide the sum by the length of the array 
 
 ###  Recursive
 
-occurs when a thing is defined in terms of itself or of its type. is used in a variety of disciplines ranging from linguistics to logic. Or relating to or involving a program or routine of which a part requires the application of the whole, so that its explicit interpretation requires in general many successive executionss
+occurs when a thing is defined in terms of itself or of its type. is used in a variety of disciplines ranging from linguistics to logic. Or relating to or involving a program or routine of which a part requires the application of the whole, so that its explicit interpretation requires in general many successive executions.
