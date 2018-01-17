@@ -25,10 +25,10 @@ COde explanation
 
 My Approach
 
-I have a function title permAlone(permutation alone) that passed through two parameters called  a(which is array of any) and n( which is an interger that is equal to the lenght of array).  I create another variable called results that will store all the permutaions. 
+I have a function titled permAlone(permutation alone) that passes through two parameters called  a(which is array of any) and n( which is an interger that is equal to the lenght of array).  I create another variable called results that will store all the permutaions. 
 
-I created an for loop for each permutation , append the current letter . I said variable c is equal to zero(0). On My while loop i said while index i is  less than integer(n) , and on my rest statement i said if index i is divisible by two and leaaves a reminder zero(0) then switch the ith element and the last one . If is odd witch the first element and the last one. 
+I created a for loop for each permutation , append the current letter . I said variable c is equal to zero(0). On My while loop i said index i is  less than integer(n) , and on my test statement i said if index i is divisible by two and leaves a reminder zero(0) then switch the ith element and the last one . If is odd switch the first element and the last one. 
 
-I used  filter to creates a new array with all elements that pass the test implemented by the provided function and should return letters that doesn't match other characters.
+I used  filter that creates a new array called permutations with all elements that pass the test implemented by the provided function and should return letters that doesn't match other characters.
 
-In this algorithm challenge i have learned that it is important to ask when  i stuck to avoid spending more hours trying to  figure  it out.
+In this algorithm challenge i have learned that it is important to ask when you stuck to avoid spending more hours trying to  figure  it out.
