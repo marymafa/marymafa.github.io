@@ -34,7 +34,7 @@ I used  filter  that creates a new array called permutations with all elements t
 In this algorithm challenge i have learned that it is important to ask when you stuck to avoid spending more hours trying to  figure  it out and  also i like the experience i got from this challenge.
 
 
-This is my working code
+### This is my working code: 
 
 function permAlone(a, n = a.length) {
  
