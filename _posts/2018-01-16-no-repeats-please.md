@@ -5,7 +5,7 @@ title: No repeats please
 date: 2018-01-16
 ---
 
-### No repeats Please
+### No Repeats Please
 
 Algorithm Challenge
 
