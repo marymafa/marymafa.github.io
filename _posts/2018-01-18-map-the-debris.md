@@ -34,7 +34,7 @@ I said variable i equal to zero because zero is the starting point, and i used a
  
 Finally, i calculated the value  of orbital period first and it returned an accurate results and lastly i created an array that transforms the element's average altitude into their orbital periods and returns an array with the names and the orbital periods.
 
-My working code
+The is my piece of code:
 
 var i = 0;
     for (var i in averageAltitudes) {
