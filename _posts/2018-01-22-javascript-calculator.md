@@ -7,7 +7,7 @@ date: 2018-01-22
 
 ### Javascript Calculator
 
-In this project was asked to build a javascript calculator that wil allow  users to add, subtract, multiply and divide two numbers. If a user  click  an a clear button ,it is  clear the input field with a clear button and t user  can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
+In this project I were suppose  to build a javascript calculator that wil allow  users to add, subtract, multiply and divide two numbers. If a user  click  an a clear button ,it is  clear the input field with a clear button and t user  can keep chaining mathematical operations together until I hit the equal button, and the calculator will tell me the correct output.
 
 ### code explanation
 

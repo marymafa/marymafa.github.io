@@ -25,7 +25,7 @@ Last time i did html only so now i want to add javascript so that the screen can
 
 Initially, I thought I’d need to write functions for every button but that seemed redundant so I found a better way with the button value attribute by passing the object into a function onclick . I used get docement by id that will  return the element that has the ID attribute with the specified value and inner html that is used to get or set the HTML content of an element and also it allows reading and replacing everything within a given DOM element (HTML tag). Equals function  is used to add, subtract, multiply and divide two numbers, and return results of those values when ever the the user press the equal sign it will execute the function.
 
-Finally, its working even though i was struggling to  add, subtract, multiply and divide two numbers and return the results of those values. I went back to my function and review all my code to where the problem is and i found that i diin't use get element by id correctly the i did fix it.
+Finally, its working even though i was struggling to  add, subtract, multiply and divide two numbers and return the results of those values. I went back to my function and review all my code to where the problem is and i found that i didn't use get element by id correctly the i did fix it. I have now completed the challenge Build a JavaScript calculator. Initially I tried making a calculator emulating a real calculator, but I gave up and resorted to eval. For the design I tried to imitate the "material" look that is so popular nowadays
 
 
 
