@@ -26,7 +26,7 @@ function click() {
       document.getElementById("cell2").innerHTML = computerplayer;
     } 
 
-I used document dot get element by id to return the element that has the ID attribute with the specified value and when the user clicks the click function it will  get the element by the specified id.
+I used document dot get element by id to return the element that has the ID attribute with the specified value and when the user clicks the click function, it will  get the element by the specified id.
 
 document.getElementById("cell1").onclick = click;
 document.getElementById("cell2").onclick = click;
