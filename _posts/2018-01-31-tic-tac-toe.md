@@ -18,6 +18,8 @@ User stories
 ### My Approach
 
 I created a function titled click  and i used this dot id to return an empty string. On my test statement i said if cell is empty then the user should choose player choice and the remaining  player  choice will be for  copmputer choice. Each cell have it's own staement .
+
+
 function click() {
     if (this.id == "cell1") {
         document.getElementById("cell1").innerHTML = playchoice;
