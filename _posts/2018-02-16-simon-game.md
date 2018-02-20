@@ -14,7 +14,9 @@ Javascript
 
 I created a variable called a player inside chageColors function  that  wil store user's input . and i created afunction title players that passes through one parameter called id which is the id of the user.  this function will push the id to a variable called player. On the test statement ai said if possible colors dot lenght and player dot length doesn't exist the alert a message that says" wrong move and try again" and also if possible colors toString is not equal to player also aleert a mesage that says " wrong move and try again" . I also created a clear function that will remove  the possibleColors and start again.
 
-this is my piece of code
+this is my piece of code:
+
+
  function players(id) {
             player.push(id);
             if (possibleColors.length - 1 <= player.length - 1) {
