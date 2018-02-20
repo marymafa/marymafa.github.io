@@ -17,14 +17,14 @@ As a user, if I press the wrong button, I am notified that I have done so, and t
 As a user, I can see how many steps are in the current series of button presses.
 As a user, if I want to restart, I can hit a button to do so, and the game will return to a single step.
 As a user, I can play in strict mode where if I get a button press wrong, it notifies me that I have done so, and the game restarts at a new random series of button presses.
-As a user, the tempo of the game speeds up incrementally on the 5th, 9th and 13th stepAs a user, I can win the game by getting a series of 20 steps correct. I am notified of my victory, then the game starts over.
+As a user, the tempo of the game speeds up incrementally on the 5th, 9th and 13th stepAs a user, I can win the game by getting a series of 20 steps correct.
 
 
 Javascript
 
 I have a variable called display that is equal to setInterval and inside it, i have another variable called a random color which represents colors and i used a math dot random to return a random number between zero and one , i used a math.floor to return the largest integer less than or equal to a given numbera nd i multiplied it by the length of the colors. I used document do t get elemt by id which is  rndom color and its class name which is buttons dark addin with random color. I have a  set time out function that will call  a function or evaluates an expression after a specified number of milliseconds.
 
-THis is may piece of code:
+This is may piece of code:
 
  function changeColor() {
             players();
