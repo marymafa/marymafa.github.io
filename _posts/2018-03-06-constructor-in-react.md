@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: constructors
@@ -15,6 +14,3 @@ Most languages allow overloading the constructor in that there can be more than 
 
 
 If you do not specify a constructor method, a default constructor is used.
-
-
-
