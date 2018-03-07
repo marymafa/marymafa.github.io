@@ -1,19 +1,13 @@
 ---
-layout: post
-title: my observation for last week
-date: 2017-07-31
+layout:post
+title: Constructor
+date:2018-03-06
 ---
 
-### My observation for last week
+### Constructor
 
-I observed that  clients  connect to the  proxy server,requesting some  services ,such as  file,webpage,connection and so on.
+The constructor method is a special method for creating and initializing an object created within a class.In class-based object-oriented programming, a constructor (abbreviation: ctor) is a special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables.
 
-It simplify and  control complexity.
+A constructor resembles an instance method, but it differs from a method in that it has no explicit return type, it is not implicitly inherited and it usually has different rules for scope modifiers. Constructors often have the same name as the declaring class. They have the task of initializing the object's data members and of establishing the invariant of the class, failing if the invariant is invalid. A properly written constructor leaves the resulting object in a valid state. Immutable objects must be initialized in a constructor.
 
-Open proxy-ussers to  conceal thier IP adress.
-
-Also i observed that jquery is a fast,small and feature-rich javascript library,and it makes html to be much simpler.
-
-Html use  cascading stylesheet and jquey use script instead of style,should have an open,close script and dollar($).
-
-Jquery has changed  the way  millions  of people write javascript.javascript  start with two-forward slash// e.g //Dedfine my Name below this line.
+Most languages allow overloading the constructor in that there can be more than one constructor for a class, with differing parameters. Some languages take consideration of some special types of constructors. Constructors, which concretely use a single class to create objects and return a new instance of the class, are abstracted by factories, which also create objects but can do so in various ways, using multiple classes or different allocation schemes such as an object pool.

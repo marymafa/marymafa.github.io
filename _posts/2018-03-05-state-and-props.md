@@ -29,4 +29,4 @@ class Greeting extends React.Component {
 The above is the syntax for doing setting a component's default state. The constructor method is a special method for creating and initializing an object created with a class. In any class, there can only be one constructor method. super allows you to call the constructor method of the parent class. You need to include props to have access to this.props inside of your constructor. In React, super should be present in a constructor method.
 
 
-State is the heart of every react component. It determines how components renders and  behave.
+State is the heart of every react component. It determines how components renders and behave.
