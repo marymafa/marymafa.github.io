@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Lifecycle Methods for react component
-date: 2018-03-07
+date: 2018-03-08
 ---
 
 ### Lifecycle Methods for react component
