@@ -7,7 +7,8 @@ date: 2018-02-14
 
 ### Simon game
 
-this is the most challenging  game, and i love the fact that i'm learning and i can alo see where the problem.
+
+This is the most challenging game, and I love the fact that I'm learning and I can also see where the problem.
 
 ### User Stories:
 
@@ -30,7 +31,7 @@ As a user, the tempo of the game speeds up incrementally on the 5th, 9th and 13t
 
 ### Javascript
 
-I have a variable called display that is equal to setInterval and inside it, i have another variable called a random color which represents colors and i used a math dot random to return a random number between zero and one , i used a math.floor to return the largest integer less than or equal to a given numbera nd i multiplied it by the length of the colors. I used document do t get elemt by id which is  rndom color and its class name which is buttons dark addin with random color. I have a  set time out function that will call  a function or evaluates an expression after a specified number of milliseconds.
+I have a variable called display that is equal to setInterval and inside it, I have another variable called a random color which represents colors and I used a math dot random to return a random number between zero and one , I used a math.floor to return the largest integer less than or equal to a given number and I multiplied it by the length of the colors. I used document do t get element by id which is random color and it's class name which buttons dark added with a random color. I have a  set time out function that will call  a function or evaluates an expression after a specified number of milliseconds.
 
 ### This is may piece of code:
 
