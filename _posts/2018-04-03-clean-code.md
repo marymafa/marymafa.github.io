@@ -49,7 +49,7 @@ Methods should have verb or verb phrase names like post payment, deletePage, or 
 
 ### conclusion
 
-. We all know that even the bad code works. But it takes time and resources to make a program good.
+I know that even the bad code works. But it takes time and resources to make a program good.
 
 
 
