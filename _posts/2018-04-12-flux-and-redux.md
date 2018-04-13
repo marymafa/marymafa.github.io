@@ -9,11 +9,15 @@ date: 2018-04-12
 
 Flux is a pattern and Redux is a library.
 
-Flux is a fancy name for the observer pattern modified a little bit to fit React, but Facebook released a few tools to aid in implementing the Flux pattern, so the following is the difference between using these tools (which is commonly referred to as using Flux) and using Redux.
+### Flux 
+
+is a fancy name for the observer pattern modified a little bit to fit React, but Facebook released a few tools to aid in implementing the Flux pattern, so the following is the difference between using these tools (which is commonly referred to as using Flux) and using Redux.
 
 Both Flux and Redux have actions. Actions can be compared to events (or what trigger events). In Flux, an action is a simple JavaScript object, and that’s the default case in Redux too, but when using Redux middleware, actions can also be functions and promises.
 
-With Flux it is a convention to have multiple stores per application; each store is a singleton object. In Redux, the convention is to have a single store per application, usually separated into data domains internally (you can create more than one Redux store if needed for more complex scenarios).
+### With Flux 
+
+it is a convention to have multiple stores per application; each store is a singleton object. In Redux, the convention is to have a single store per application, usually separated into data domains internally (you can create more than one Redux store if needed for more complex scenarios).
 
 Flux has a single dispatcher and all actions have to pass through that dispatcher. It’s a singleton object. A Flux application cannot have multiple dispatchers. This is needed because a Flux application can have multiple stores and the dependencies between those stores need a single manager, which is the dispatcher.
 
