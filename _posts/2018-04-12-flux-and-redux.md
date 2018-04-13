@@ -3,6 +3,7 @@
 layout: post
 title: Flux and Redux
 date: 2018-04-12
+---
 
 ### Flux and Redux
 
