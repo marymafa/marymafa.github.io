@@ -11,7 +11,7 @@ date: 2018-04-06
 is a geographically distributed network of proxy servers and their data centers. The goal is to distribute service spatially relative to end-users to provide high availability and high performance.
 
 
-### Setting Up Our Data Centers to Scale
+### Setting up Our Data Centers to Scale
 
 Cloudflare deploys smaller footprints in more locations. This allows us to take advantage of innovative deployment, power, and cooling strategies. As a result, you have been able to optimize the processing of high volumes of traffic through our network.
 
