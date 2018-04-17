@@ -5,6 +5,7 @@ layout: post
 title: sessionStorage
 date: 2018-04-15
 ---
+
 ### sessionStorage
 
 The sessionStorage object exists as a property of the window object in supporting browsers (currently Firefox 3+, Safari 4+, and Internet Explorer 8+). You can place data onto the sessionStorage object and that data persists for as long as that window (or tab) is open. Even if you navigate away from the page that stored the data and then navigate back, the data saved to sessionStorage is still available. Any data stored in sessionStorage is tied to the protocol, hostname, and port of the page that saved the information and only pages sharing the same protocol, hostname, and port can access that data later.
@@ -29,4 +30,4 @@ The sessionStorage object has five methods:
 
 5. clear() – removes all key-value pairs.
 
-There is also a single property, length, which indicates how many key-value pairs are currently stored in sessionStorage.
+
