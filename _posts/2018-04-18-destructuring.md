@@ -25,4 +25,20 @@ while (true) {
     console.log(value);
 }
 
+ Array Destructuring
 
+Array Destructuring is fairly similar to Object Destructuring but uses array literal syntax instead of object literal syntax. Whereas Object Destructuring uses named keys to extract values, Array Destructuring uses positions within an array to achieve the same thing. The following example demonstrates Array Destructuring to extract a list of colours.
+
+const colours = ["red", "blue", "green"]
+
+const [first, second, third] = colours
+
+console.log(first)
+console.log(second)
+console.log(third)
+
+---
+
+red
+blue
+green
