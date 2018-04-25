@@ -1,6 +1,6 @@
 ---
 layout: post
-title: componentWillReceiveProp and componentWillUpdate
+title: ComponentWillReceiveProp And ComponentWillUpdate
 date: 2018-04-23
 ---
 
