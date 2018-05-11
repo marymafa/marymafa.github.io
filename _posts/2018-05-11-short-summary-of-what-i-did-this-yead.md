@@ -6,7 +6,7 @@ date: 2018-05-11
 
 ### What I have learnt and built
 
- * So far with javascript i have built:
+### So far with javascript i have built:
 
 1. simon game where the user can presented with a random series of button presses, Each time I input a series of button presses correctly, 
 user can  see the same series of button presses but with an additional step, 
@@ -25,7 +25,7 @@ can choose whether I want to play as X or O.
  can keep chaining mathematical operations together until I hit the equal button,
   and the calculator will tell me the correct output.
 
-* with react i have built
+### with react i have built
 
 1. Markdown Previewer where the user can type GitHub-flavored Markdown into a 
    text area can see a preview of the output of my markdown that is updated as I type.
