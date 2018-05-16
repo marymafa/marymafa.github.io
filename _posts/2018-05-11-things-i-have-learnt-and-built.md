@@ -6,6 +6,14 @@ date: 2018-05-11
 
 ### What I have learnt and built
 
+So far i have learnt :
+ * algorithm 
+* javascript
+* some of react nad learning how it works
+* 
+
+
+
 ### So far with javascript i have built:
 
 1. simon game where the user can presented with a random series of button presses, Each time I input a series of button presses correctly, user can  see the same series of button presses but with an additional step, can hear a sound that corresponds to each button both when the series of button presses plays, and when I personally press a button and so on.
@@ -29,8 +37,11 @@ date: 2018-05-11
  
 ### Hobbies:
 
- Reading: helps to see different sides to situations and some of it is relatable  and I learn something new.
+* Reading: helps to see different sides to situations and some of it is relatable  and I learn something new.
 
-writing: enables me to discover things about myself that I never knew. 
+* writing code: enables me to discover things about myself that I never knew. 
 
 ###  Things I'm Excited for
+
+what excites me is that I'm adapted to programming environment and i really enjoy being able to write code.
+
