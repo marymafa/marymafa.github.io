@@ -1,12 +1,2 @@
-body {
-    background-color: #292f36;
-    color: #14cc60;
-    text-align: center;
-}
-textArea {
-    font-size: 50px;
-    height: 280px;
-    width: 1000px
-}
-
+body{background-color:#292f36;color:#14cc60;text-align:center}body,textArea{font-size:50px}textArea{height:180px;width:900px}
 /*# sourceMappingURL=main.a4780ab5.css.map*/
