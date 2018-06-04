@@ -1,3 +1,7 @@
+---
+layout: post
+title: Rules of simple design
+
 Good Design?
 
 one that is adaptable to changing needs — is the key to a “better design.” Whenever we have a choice to make, look for the choice which would be easier to change.
@@ -16,15 +20,19 @@ For each session, a set of constraints is given. These constraints are generally
 
 
 Tests Pass
+
 It makes sense that this would be the first one. After all, if you can’t verify that your system works, then it doesn’t really matter how great your design is, does it? With the modern tools that exist, we generally mean that these tests are automated. But, notice that the rule doesn’t say “Automated Tests Pass,” just “Tests Pass.” It is about correctness and verification. Looking at this from the point of view of “easier to change,” though, you can see that the length of time it takes to make sure your “Tests Pass” can be a significant factor in making changes. 
 
 Expresses Intent
+
  an important problem when you are writing, and especially when you are updating, code: it is easy for the names we give things to stray from what they represent. The first step is identifying the code related to the functionality we are addressing. Paying attention to the names and how our code expresses itself is the key to making our lives easy when we come back to it.
 
 No Duplication (DRY)
+
 We tend to think of duplication at a code level. Every piece of knowledge should have one and only one representation.” This rule also has been expressed as “Once and Only Once.always ask yourself whether or not the duplication you see is an example of core knowledge in the system.
 
 Small
+
 It is important to look back and make sure that you don’t have any extraneous pieces. Some questions I like to ask myself when I take a step back after writing some code.
 
 * Do I have any vestigial code that is no longer used?
@@ -45,11 +53,14 @@ Liskov Substitution (LSP)
 Polymorphism is a key part of a flexible design. Being able to substitute a more specific type when a general type is expected allows us to provide different behaviors without having complex branching. There is a danger, though, if the specialized type significantly changes fundamental expectations of the more general type’s behavior. A specialized type’s name should reflect that it is an enhancement of the base, not a change.
 
 Interface Segregation
+
 The surface area of a class has a direct influence on how easy it is to use. Although a class might have several different ways to use it, any specific client should see only those behaviors specific to its needs.
 
 Dependency Inversion
+
 One of the most dangerous parts when changing a system is having your changes unexpectedly influence other, unrelated parts of your system. By depending on abstractions, decoupling yourselves from concrete implementations, you can set up walls between behaviors. Abstractions better move you into standardized communication methods between components, making it easier to independently replace or change things.
 
 
 Law of Demeter
+
 the LoD is about encapsulation. We don’t want to reach inside an object and manipulate its insides; that’s just mean. Instead, we want to ask objects to perform some action for us. Let the object deal with its collaborators. A method can access either locally-instantiated variables, parameters passed in, or instance variables.
