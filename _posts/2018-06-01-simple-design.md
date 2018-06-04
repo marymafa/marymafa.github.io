@@ -14,8 +14,8 @@ The format of a standard Coderetreat is simple:
 1. write code in pairs (pair programming)
 2. 45-minute sessions
 3. A code is deleted after each session
-At the end of the day, you should know what have you learned, what surprised you and what will you improve on
 
+At the end of the day, you should know what have you learned, what surprised you and what will you improve on. 
 For each session, a set of constraints is given. These constraints are generally a bit extreme. They have the goal of breaking the participants out of their usual way of thinking. Most people will begin working on a problem in the way they are comfortable. The constraints are there to remove the ability to code in a familiar, comfortable way. The urge to rush to finishing is strong. One of the goals of the morning sessions is to break this feeling, allowing people to relax into the idea of not finishing. It emphasizes enjoying the feeling of explicitly not thinking about the end but paying attention to the minute-by-minute. The separation of identity from code frees them to experiment with new ideas.
 
 
