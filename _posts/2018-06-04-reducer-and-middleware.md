@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Reducer and middleware
-date:2017-06-04
+date: 2018-06-04
 ---
 
 ### Reducer
-
-type Reducer<S, A> = (state: S, action: A) => S
 
 A reducer (also called a reducing function) is a function that accepts an accumulation and a value and returns a new accumulation. They are used to reduce a collection of values down to a single value.
 
