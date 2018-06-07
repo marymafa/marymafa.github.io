@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reducer and middleware
-date:2017-05-02
+date:2017-06-04
 ---
 
 ### Reducer
