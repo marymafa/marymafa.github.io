@@ -1,0 +1,2 @@
+.grid{display:grid;grid-template-columns:repeat(20,30px);grid-template-rows:repeat(20,30px)}body{-ms-grid-align:center;background-color:#000}h1,h2{color:#fff}#Alive{background-color:#fff}#dead{background-color:#000}.button{background:rgba(105,163,190,.753);color:#fff;padding:10px;border-radius:5px;text-align:center;margin:9px 10px 0 0;width:100px;cursor:hand}
+/*# sourceMappingURL=main.7ffcb183.css.map*/
