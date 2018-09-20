@@ -18,7 +18,7 @@ Build a simple logger. For every request, it should log in the console a string 
 
 Hint: Express evaluates functions in the order they appear in the code. This is true for middleware too. If you want it to work for all the routes, it should be mounted before
 
-* code
+code
 app.use(function middleware(req, res, next) {
   // Do something
    var string = req.method + ' ' + req.path + ' - ' + req.ip;
@@ -45,6 +45,38 @@ res.send( {time: req.time});
 ### Basic Node and Express - Get Route Parameter Input from the Client
 
 When building an API, we have to allow users to comunicate us what they want to get from our service. For example, if the client is requesting information about a user stored in the database, they need a way to let us know which user they're interested in. One possible way to achieve this result is using route parameters. Route parameters are named segments of the URL, delimited by slashes (/). Each segment captures the value of the part of the URL which matches its position. The captured values can be found in the req.params object.
+
+route_path: '/user/:userId/book/:bookId'
+actual_request_URL: '/user/546/book/6754' 
+req.params: {userId: '546', bookId: '6754'}
+Build an echo server, mounted at the route GET /:word/echo. Respond with a JSON object, taking the structure {echo: word}. You can find the word to be repeated at req.params.word. You can test your route from your browser's address bar, visiting some matching routes, e.g. your-app-rootpath/freecodecamp/echo
+code
+app.get("/:word/echo", function(req, res) {
+ //word = req.params.word;
+  let word=req.params.word
+  // respond with the json object
+  res.json({echo: word})
+});
+
+### Basic Node and Express - Get Query Parameter Input from the Client
+Another common way to get input from the client is by encoding the data after the route path, using a query string. The query string is delimited by a question mark (?), and includes field=value couples. Each couple is separated by an ampersand (&). Express can parse the data from the query string, and populate the object req.query. Some characters cannot be in URLs, they have to be encoded in a different format before you can send them. If you use the API from JavaScript, you can use specific methods to encode/decode these characters.
+
+route_path: '/library'
+actual_request_URL: '/library?userId=546&bookId=6754' 
+req.query: {userId: '546', bookId: '6754'}
+Build an API endpoint, mounted at GET /name. Respond with a JSON document, taking the structure { name: 'firstname lastname'}. The first and last name parameters should be encoded in a query string e.g. ?first=firstname&last=lastname.
+
+TIP: In the following exercise we are going to receive data from a POST request, at the same /name route path. If you want you can use the method app.route(path).get(handler).post(handler). This syntax allows you to chain different verb handlers on the same path route. You can save a bit of typing, and have cleaner code.
+
+code
+ app.get("/name", function(req, res) {
+var firstName= req.query.first;
+  var lastName = req.query.last;
+   // Send the json object
+  let jsonObj = { name:`${firstName} ${lastName}`};
+  console.log(jsonObj);
+  res.send(jsonObj);
+ });
 
 
 
