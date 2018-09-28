@@ -59,8 +59,6 @@ actual_request_URL: '/library?userId=546&bookId=6754'
 req.query: {userId: '546', bookId: '6754'}
 Build an API endpoint, mounted at GET /name. Respond with a JSON document, taking the structure { name: 'firstname lastname'}. The first and last name parameters should be encoded in a query string e.g. ?first=firstname&last=lastname.
 
-TIP: In the following exercise we are going to receive data from a POST request, at the same /name route path. If you want you can use the method app.route(path).get(handler).post(handler). This syntax allows you to chain different verb handlers on the same path route. You can save a bit of typing, and have cleaner code.
-
 ### code
  app.get("/name", function(req, res) {
 var firstName= req.query.first;
