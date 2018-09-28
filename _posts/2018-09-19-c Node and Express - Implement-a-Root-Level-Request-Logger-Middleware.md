@@ -61,11 +61,10 @@ Build an API endpoint, mounted at GET /name. Respond with a JSON document, takin
 
 TIP: In the following exercise we are going to receive data from a POST request, at the same /name route path. If you want you can use the method app.route(path).get(handler).post(handler). This syntax allows you to chain different verb handlers on the same path route. You can save a bit of typing, and have cleaner code.
 
-code
+### code
  app.get("/name", function(req, res) {
 var firstName= req.query.first;
   var lastName = req.query.last;
-   // Send the json object
   let jsonObj = { name:`${firstName} ${lastName}`};
   console.log(jsonObj);
   res.send(jsonObj);
