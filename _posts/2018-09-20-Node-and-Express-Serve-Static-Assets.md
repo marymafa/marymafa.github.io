@@ -22,7 +22,7 @@ The .env file is a hidden file that is used to pass environment variables to you
 
 let's add an environment variable as a configuration option. Store the variable MESSAGE_STYLE=uppercase in the .env file. Then tell the GET /json route handler that you created in the last challenge to transform the response object’s message to uppercase if process.env.MESSAGE_STYLE equals uppercase. The response object should become {"message": "HELLO JSON"}.
 
-code
+### code
 app.get("/json", (req, res) => { let message = "Hello json"; (process.env.MESSAGE_STYLE == "uppercase") ? message=message.toUpperCase() : message=message; res.json({"message": message}); });
 
 
