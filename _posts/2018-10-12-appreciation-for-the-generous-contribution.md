@@ -1,7 +1,7 @@
 ---
 layout: post
 title: appreciation for the generous contribution
-date: 2018-08-12
+date: 2018-10-12
 --- 
 First of all, I would like to express great appreciation for the generous contribution to help further the education.Your help has provided me with hope and courage to live a better life. I have improved on learning new things, with your help am able to use bitbucket and is a great tool for productive collaborative coding. And also my machine was not faster so we bought another hard drive to back up my machine and now am able to do my projects and is faster than the previous one.
 
