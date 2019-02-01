@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: What is JSON Web Token
+title: JSON Web Token
 date: 2019-01-31
 ---
 
