@@ -24,3 +24,29 @@ Inheritance is a reusability mechanism in object-oriented programming. With inhe
 
 ### Composition 
 
+The term composition is not unique to Java, composition is a concept of object-oriented programming. By now you should be familiar with the concept of inheritance - inheritance requires the use of the Java keywords extends or implements. When your class inherits members from either a superclass or a superinterface, you can directly invoke or access those members.
+
+* example
+
+package com.tutorial.javabasic;
+ 
+class Vehicle {
+ 
+    public String getDetails() {
+ 
+        return "This is vehicle details";
+    }
+}
+ 
+class Car extends Vehicle {
+}
+ 
+public class CompositionExample1 {
+ 
+    public static void main(String s[]) {
+        Car c = new Car();
+        String details = c.getDetails();
+        System.out.println(details);
+    }
+}
+
